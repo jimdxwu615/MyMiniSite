@@ -1,0 +1,60 @@
+body {
+    background-color: #D1BEB0;
+    margin: 0;
+    padding: 0;
+}
+
+div.container {
+    margin: 0px 10px;
+    background-color: #DDDBF1;
+    padding: 25px 50px;
+    overflow: auto;
+    position: fixed;
+    width: 100%;
+}
+
+div.left {
+    float: left;
+    
+}
+
+div.mid {
+    text-align: center;
+    margin: 5px auto;
+    
+    
+}
+
+li.nav {
+    display: inline;
+    margin-right: 10px;
+}
+
+div.right {
+    float: right;
+    margin-right: 50px;
+    
+    
+}
+
+.button {
+    background-color: #383F51;
+    color: #D1BEB0;
+    padding: 5px 10px;
+    text-align: center;
+    cursor: pointer;  
+}
+
+.photos{
+    padding: 0px auto;
+    margin-left: 100px;
+    
+    
+}
+.two {
+    float: left;
+}
+.three {
+    margin: 10px auto;
+    
+}
